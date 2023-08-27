@@ -31,4 +31,4 @@ pkg upgrade -y
 ```
 apt install git 
 ```
-# ahora si volver a la parye superior
+# ahora si volver a la parte superior
